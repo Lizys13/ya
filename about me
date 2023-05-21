@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">информация обо мне</a>
+    </header>
+    <main>
+      <h1>Лиза Хвостова</h1>
+      <ul>
+        <li>люблю смотреть дорамы</li>
+        <li>катаюсь на роликах</li>
+        <li>делаю сайты и видео на заказ</li>
+      </ul>
+      <p>Вот сайт с самыми лучшими дорамами</p>
+     <a class="cayt" href="https://www.film.ru/compilation/luchshie-koreyskie-doramy">сайт</a>
+    </main>
+    <footer>
+      
+    </footer>
+  </body>
+</html>
